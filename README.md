@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Introduce
 
 Hi, I am HoRi.
@@ -9,6 +7,14 @@ I'm learning to python.
 I'm studying ML/DL and aiming to become a machine learning developer.
 
 Another goals of mine is a data analyst.
+
+### I can speak..
+- Korean
+- English
+- Japanese
+- Python
+- C
+- C++
 
 
 <!--
