@@ -3,9 +3,13 @@
 ### Introduce
 
 Hi, I am HoRi.
+
 I'm learning to python.
+
 I'm studying ML/DL and aiming to become a machine learning developer.
+
 Another goals of mine is a data analyst.
+
 
 <!--
 **HoRi0506/HoRi0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
