@@ -6,7 +6,7 @@ I'm learning to python.
 
 I'm studying ML/DL and aiming to become a machine learning developer.
 
-Another goals of mine is a data analyst.
+Another goals of mine is a data analyst and data scientist.
 
 ### I can speak..
 - Korean
