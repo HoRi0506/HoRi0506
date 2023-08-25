@@ -1,33 +1,34 @@
-### Introduce
+# Data Scientist / Data Analyst | 김기완
 
-Hi, I am HoRi.
+## About
+- 데이터와 함께 사는 개발자
+- 상지대학교 컴퓨터공학과(23.02 졸업)
+- 지능형 빅데이터 분석 실무자 양성 과정 수료(22.02-22.12)
+- AI 기반 데이터 사이언티스트 양성 과정 수료(22.12-23.06)
 
-I'm learning to python.
+## Contact
+- 📨 vmflskgo10@naver.com
+- 📑 [GitHub Resume](https://hori0506.github.io/resume/)
+- 🗒️ [Notion Portfolio](https://www.notion.so/Portfolio-87a66d5e0c8942d4b772b29be7709c0f?pvs=4)
 
-I'm studying ML/DL and aiming to become a machine learning developer.
+## Skill & Tools
 
-Another goals of mine is a data analyst and data scientist.
-
-### I can speak..
-- Korean
-- English
-- Japanese
-- Python
-- C
-- C++
-
-
-<!--
-**HoRi0506/HoRi0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** 학습량과 숙련도가 높은 순으로 나열했습니다. **
+<br/> 🌖 <br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<br/> 🌗 <br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=Scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+<br/> 🌘 <br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=SQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=Fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=white"/>
