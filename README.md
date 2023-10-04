@@ -1,4 +1,4 @@
-# Data Scientist / Data Analyst | 김기완
+# Data Scientist | 김기완
 
 ## About
 - 데이터와 함께 사는 개발자
