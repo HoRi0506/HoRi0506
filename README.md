@@ -1,7 +1,7 @@
-# Data Scientist | 김기완
+# Kiwan Kim | 김기완
 
 ## About
-- 데이터와 함께 사는 개발자
+- 데이터와 함께 사는 개발자, Data Scientist로 나아가는 개발자
 - 상지대학교 컴퓨터공학과(23.02 졸업)
 - 지능형 빅데이터 분석 실무자 양성 과정 수료(22.02-22.12)
 - AI 기반 데이터 사이언티스트 양성 과정 수료(22.12-23.06)
@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/>
-<br/> 🌘 <br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<br/> 🌘 <br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=Fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
