@@ -1,17 +1,17 @@
 # Kiwan Kim | 김기완
 
-## About
+## 💁🏻‍♂️ About
 - 데이터와 함께 사는 개발자, Data Scientist로 나아가는 개발자
 - 상지대학교 컴퓨터공학과(23.02 졸업)
 - 지능형 빅데이터 분석 실무자 양성 과정 수료(22.02-22.12)
 - AI 기반 데이터 사이언티스트 양성 과정 수료(22.12-23.06)
 
-## Contact
+## 📞 Contact
 - 📨 vmflskgo10@naver.com
 - 📑 [GitHub Resume](https://hori0506.github.io/resume/)
 - 🗒️ [Notion Portfolio](https://www.notion.so/Portfolio-87a66d5e0c8942d4b772b29be7709c0f?pvs=4)
 
-## Skill & Tools
+## 📚 Skill & Tools
 
 ** 학습량과 숙련도가 높은 순으로 순서대로 나열했습니다. **
 <br/> 🌖 <br/>
