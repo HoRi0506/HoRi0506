@@ -12,7 +12,7 @@
 - 📝 [Technical Resume](https://www.notion.so/03f74b3e04de49dda11a4cb3749d34b1?pvs=4)
 - 📃 [Notion Portfolio](https://www.notion.so/Portfolio-87a66d5e0c8942d4b772b29be7709c0f?pvs=4)
 
-## 📚 Skill & Tools
+## 📚 Skills & Tools
 
 ** 학습량과 숙련도가 높은 순으로 순서대로 나열했습니다. **
 <br/> 🌖 <br/>
