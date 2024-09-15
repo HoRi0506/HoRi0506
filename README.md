@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/>
 <br/> 🌘 <br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=Fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
